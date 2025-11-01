@@ -1,0 +1,14 @@
+D:\SDA\AdapterApp\bin\Debug\net9.0\AdapterApp.exe
+D:\SDA\AdapterApp\bin\Debug\net9.0\AdapterApp.deps.json
+D:\SDA\AdapterApp\bin\Debug\net9.0\AdapterApp.runtimeconfig.json
+D:\SDA\AdapterApp\bin\Debug\net9.0\AdapterApp.dll
+D:\SDA\AdapterApp\bin\Debug\net9.0\AdapterApp.pdb
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.AssemblyInfoInputs.cache
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.AssemblyInfo.cs
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.csproj.CoreCompileInputs.cache
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.dll
+D:\SDA\AdapterApp\obj\Debug\net9.0\refint\AdapterApp.dll
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.pdb
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.genruntimeconfig.cache
+D:\SDA\AdapterApp\obj\Debug\net9.0\ref\AdapterApp.dll

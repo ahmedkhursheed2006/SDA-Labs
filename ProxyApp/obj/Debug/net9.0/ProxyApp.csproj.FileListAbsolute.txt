@@ -1,0 +1,14 @@
+D:\SDA\ProxyApp\bin\Debug\net9.0\ProxyApp.exe
+D:\SDA\ProxyApp\bin\Debug\net9.0\ProxyApp.deps.json
+D:\SDA\ProxyApp\bin\Debug\net9.0\ProxyApp.runtimeconfig.json
+D:\SDA\ProxyApp\bin\Debug\net9.0\ProxyApp.dll
+D:\SDA\ProxyApp\bin\Debug\net9.0\ProxyApp.pdb
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.AssemblyInfoInputs.cache
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.AssemblyInfo.cs
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.csproj.CoreCompileInputs.cache
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.dll
+D:\SDA\ProxyApp\obj\Debug\net9.0\refint\ProxyApp.dll
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.pdb
+D:\SDA\ProxyApp\obj\Debug\net9.0\ProxyApp.genruntimeconfig.cache
+D:\SDA\ProxyApp\obj\Debug\net9.0\ref\ProxyApp.dll

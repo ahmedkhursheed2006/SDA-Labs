@@ -1,0 +1,14 @@
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.AssemblyInfoInputs.cache
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.AssemblyInfo.cs
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.csproj.CoreCompileInputs.cache
+D:\SDA\FacadeApp\bin\Debug\net9.0\FacadeApp.exe
+D:\SDA\FacadeApp\bin\Debug\net9.0\FacadeApp.deps.json
+D:\SDA\FacadeApp\bin\Debug\net9.0\FacadeApp.runtimeconfig.json
+D:\SDA\FacadeApp\bin\Debug\net9.0\FacadeApp.dll
+D:\SDA\FacadeApp\bin\Debug\net9.0\FacadeApp.pdb
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.dll
+D:\SDA\FacadeApp\obj\Debug\net9.0\refint\FacadeApp.dll
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.pdb
+D:\SDA\FacadeApp\obj\Debug\net9.0\FacadeApp.genruntimeconfig.cache
+D:\SDA\FacadeApp\obj\Debug\net9.0\ref\FacadeApp.dll

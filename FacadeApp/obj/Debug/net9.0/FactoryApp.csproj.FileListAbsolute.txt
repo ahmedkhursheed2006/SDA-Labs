@@ -1,0 +1,14 @@
+D:\SDA\FactoryApp\bin\Debug\net9.0\FactoryApp.exe
+D:\SDA\FactoryApp\bin\Debug\net9.0\FactoryApp.deps.json
+D:\SDA\FactoryApp\bin\Debug\net9.0\FactoryApp.runtimeconfig.json
+D:\SDA\FactoryApp\bin\Debug\net9.0\FactoryApp.dll
+D:\SDA\FactoryApp\bin\Debug\net9.0\FactoryApp.pdb
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.AssemblyInfoInputs.cache
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.AssemblyInfo.cs
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.csproj.CoreCompileInputs.cache
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.dll
+D:\SDA\FactoryApp\obj\Debug\net9.0\refint\FactoryApp.dll
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.pdb
+D:\SDA\FactoryApp\obj\Debug\net9.0\FactoryApp.genruntimeconfig.cache
+D:\SDA\FactoryApp\obj\Debug\net9.0\ref\FactoryApp.dll

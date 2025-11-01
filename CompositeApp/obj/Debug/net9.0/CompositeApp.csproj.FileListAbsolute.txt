@@ -1,0 +1,14 @@
+D:\SDA\CompositeApp\bin\Debug\net9.0\CompositeApp.exe
+D:\SDA\CompositeApp\bin\Debug\net9.0\CompositeApp.deps.json
+D:\SDA\CompositeApp\bin\Debug\net9.0\CompositeApp.runtimeconfig.json
+D:\SDA\CompositeApp\bin\Debug\net9.0\CompositeApp.dll
+D:\SDA\CompositeApp\bin\Debug\net9.0\CompositeApp.pdb
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.AssemblyInfoInputs.cache
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.AssemblyInfo.cs
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.csproj.CoreCompileInputs.cache
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.dll
+D:\SDA\CompositeApp\obj\Debug\net9.0\refint\CompositeApp.dll
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.pdb
+D:\SDA\CompositeApp\obj\Debug\net9.0\CompositeApp.genruntimeconfig.cache
+D:\SDA\CompositeApp\obj\Debug\net9.0\ref\CompositeApp.dll
