@@ -1,0 +1,15 @@
+D:\SDA\StrategyApp\bin\Debug\net9.0\StrategyApp.exe
+D:\SDA\StrategyApp\bin\Debug\net9.0\StrategyApp.deps.json
+D:\SDA\StrategyApp\bin\Debug\net9.0\StrategyApp.runtimeconfig.json
+D:\SDA\StrategyApp\bin\Debug\net9.0\StrategyApp.dll
+D:\SDA\StrategyApp\bin\Debug\net9.0\StrategyApp.pdb
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.AssemblyInfoInputs.cache
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.AssemblyInfo.cs
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.csproj.CoreCompileInputs.cache
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.sourcelink.json
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.dll
+D:\SDA\StrategyApp\obj\Debug\net9.0\refint\StrategyApp.dll
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.pdb
+D:\SDA\StrategyApp\obj\Debug\net9.0\StrategyApp.genruntimeconfig.cache
+D:\SDA\StrategyApp\obj\Debug\net9.0\ref\StrategyApp.dll

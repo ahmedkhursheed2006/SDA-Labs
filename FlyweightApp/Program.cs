@@ -11,9 +11,18 @@ namespace FlyweightApp
         public static void Main(string[] args)
         {
             // Arbitrary extrinsic state
-            AngryBirdFactory AngryBird = new();
+            AngryBirdFactory AngryBird = new AngryBirdFactory();
             // Work with different flyweight instances
-            Flyweight ColouredAngryBird = new();
+            Flyweight RedAngryBird = AngryBird.GetColorFlyweight("red");
+            RedAngryBird = AngryBird.GetColorFlyweight("red");
+            Flyweight BlueAngryBird = AngryBird.GetColorFlyweight("blue");
+            Flyweight YellowAngryBird = AngryBird.GetColorFlyweight("yellow");
+            Flyweight BlackAngryBird = AngryBird.GetColorFlyweight("black");
+        
+            RedAngryBird.Operation(10);
+            BlueAngryBird.Operation(20);
+            BlackAngryBird.Operation(30);
+            YellowAngryBird.Operation(40);
             // Wait for user
             Console.ReadKey();
         }
@@ -24,19 +33,22 @@ namespace FlyweightApp
     /// </summary>
     public class AngryBirdFactory
     {
-        private Dictionary<string, Flyweight> AngryBirds { get; set; } = [];
+        private readonly Dictionary<string, Flyweight> AngryBirds = new();
 
-        // Constructor
-        public AngryBirdFactory()
-        {
-            AngryBirds.Add("red", new ConcreteAngryBirdFlyweight());
-            AngryBirds.Add("blue", new ConcreteAngryBirdFlyweight());
-            AngryBirds.Add("yellow", new ConcreteAngryBirdFlyweight());
-        }
 
-        public Flyweight GetColorFlyweight(string key)
+        public Flyweight GetColorFlyweight(string color)
         {
-            return AngryBirds[key];
+            if (!AngryBirds.ContainsKey(color))
+            {
+                AngryBirds[color] = new ConcreteAngryBirdFlyweight(color);
+                Console.WriteLine($"Created new AngryBird flyweight for color: {color}");
+            }
+            else
+            {
+                Console.WriteLine($"Reusing existing AngryBird flyweight for color: {color}");
+            }
+
+            return AngryBirds[color];
         }
     }
 
@@ -53,9 +65,16 @@ namespace FlyweightApp
     /// </summary>
     public class ConcreteAngryBirdFlyweight : Flyweight
     {
+
+        private readonly string _color;
+
+        public ConcreteAngryBirdFlyweight(string color)
+        {
+            _color = color;
+        }
         public override void Operation(int extrinsicstate)
         {
-            Console.WriteLine("ConcreteAngryBirdFlyweight: " + extrinsicstate);
+            Console.WriteLine($"[{_color}] Angry Bird is flying at position {extrinsicstate}");
         }
     }
 
@@ -66,7 +85,7 @@ namespace FlyweightApp
     {
         public override void Operation(int extrinsicstate)
         {
-            Console.WriteLine("UnsharedConcreteAngryBirdFlyweight: " + extrinsicstate);
+            Console.WriteLine($"Unshared Angry Bird is flying at position {extrinsicstate}");
         }
     }
 }

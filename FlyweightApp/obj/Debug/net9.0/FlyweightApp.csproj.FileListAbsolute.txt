@@ -1,12 +1,13 @@
+D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.AssemblyInfoInputs.cache
+D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.AssemblyInfo.cs
+D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.csproj.CoreCompileInputs.cache
+D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.sourcelink.json
 D:\SDA\FlyweightApp\bin\Debug\net9.0\FlyweightApp.exe
 D:\SDA\FlyweightApp\bin\Debug\net9.0\FlyweightApp.deps.json
 D:\SDA\FlyweightApp\bin\Debug\net9.0\FlyweightApp.runtimeconfig.json
 D:\SDA\FlyweightApp\bin\Debug\net9.0\FlyweightApp.dll
 D:\SDA\FlyweightApp\bin\Debug\net9.0\FlyweightApp.pdb
-D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.AssemblyInfoInputs.cache
-D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.AssemblyInfo.cs
-D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.csproj.CoreCompileInputs.cache
 D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.dll
 D:\SDA\FlyweightApp\obj\Debug\net9.0\refint\FlyweightApp.dll
 D:\SDA\FlyweightApp\obj\Debug\net9.0\FlyweightApp.pdb

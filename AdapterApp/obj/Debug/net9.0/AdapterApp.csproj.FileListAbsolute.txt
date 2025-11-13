@@ -12,3 +12,4 @@ D:\SDA\AdapterApp\obj\Debug\net9.0\refint\AdapterApp.dll
 D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.pdb
 D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.genruntimeconfig.cache
 D:\SDA\AdapterApp\obj\Debug\net9.0\ref\AdapterApp.dll
+D:\SDA\AdapterApp\obj\Debug\net9.0\AdapterApp.sourcelink.json
