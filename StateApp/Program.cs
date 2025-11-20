@@ -82,7 +82,7 @@ namespace StateApp
 
     public class Cursor(CursorState state)
     {
-         CursorState currentState = state;
+        CursorState currentState;
 
         public CursorState CursorState
         {

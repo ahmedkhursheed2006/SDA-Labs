@@ -1,0 +1,15 @@
+D:\SDA\ObserverApp\bin\Debug\net9.0\ObserverApp.exe
+D:\SDA\ObserverApp\bin\Debug\net9.0\ObserverApp.deps.json
+D:\SDA\ObserverApp\bin\Debug\net9.0\ObserverApp.runtimeconfig.json
+D:\SDA\ObserverApp\bin\Debug\net9.0\ObserverApp.dll
+D:\SDA\ObserverApp\bin\Debug\net9.0\ObserverApp.pdb
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.AssemblyInfoInputs.cache
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.AssemblyInfo.cs
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.csproj.CoreCompileInputs.cache
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.sourcelink.json
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.dll
+D:\SDA\ObserverApp\obj\Debug\net9.0\refint\ObserverApp.dll
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.pdb
+D:\SDA\ObserverApp\obj\Debug\net9.0\ObserverApp.genruntimeconfig.cache
+D:\SDA\ObserverApp\obj\Debug\net9.0\ref\ObserverApp.dll
