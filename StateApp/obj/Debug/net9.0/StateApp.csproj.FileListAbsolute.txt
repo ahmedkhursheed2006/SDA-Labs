@@ -1,0 +1,15 @@
+D:\SDA\StateApp\bin\Debug\net9.0\StateApp.exe
+D:\SDA\StateApp\bin\Debug\net9.0\StateApp.deps.json
+D:\SDA\StateApp\bin\Debug\net9.0\StateApp.runtimeconfig.json
+D:\SDA\StateApp\bin\Debug\net9.0\StateApp.dll
+D:\SDA\StateApp\bin\Debug\net9.0\StateApp.pdb
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.AssemblyInfoInputs.cache
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.AssemblyInfo.cs
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.csproj.CoreCompileInputs.cache
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.sourcelink.json
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.dll
+D:\SDA\StateApp\obj\Debug\net9.0\refint\StateApp.dll
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.pdb
+D:\SDA\StateApp\obj\Debug\net9.0\StateApp.genruntimeconfig.cache
+D:\SDA\StateApp\obj\Debug\net9.0\ref\StateApp.dll
