@@ -1,0 +1,15 @@
+D:\SDA\MementoApp\bin\Debug\net9.0\MementoApp.exe
+D:\SDA\MementoApp\bin\Debug\net9.0\MementoApp.deps.json
+D:\SDA\MementoApp\bin\Debug\net9.0\MementoApp.runtimeconfig.json
+D:\SDA\MementoApp\bin\Debug\net9.0\MementoApp.dll
+D:\SDA\MementoApp\bin\Debug\net9.0\MementoApp.pdb
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.AssemblyInfoInputs.cache
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.AssemblyInfo.cs
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.csproj.CoreCompileInputs.cache
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.sourcelink.json
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.dll
+D:\SDA\MementoApp\obj\Debug\net9.0\refint\MementoApp.dll
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.pdb
+D:\SDA\MementoApp\obj\Debug\net9.0\MementoApp.genruntimeconfig.cache
+D:\SDA\MementoApp\obj\Debug\net9.0\ref\MementoApp.dll
